@@ -57,10 +57,10 @@ img {
 
 .container-hero {
   height: 600px;
-  background: url(/images/blurred-bag-left-hero.png) left bottom no-repeat,
-    url(/images/scroll-down-bag.png) center bottom no-repeat,
-    url(/images/blurred-bag-right-hero.png) right bottom no-repeat,
-    url(/images/girl-hero-section.png) 20% bottom no-repeat;
+  background: url(images/blurred-bag-left-hero.png) left bottom no-repeat,
+    url(images/scroll-down-bag.png) center bottom no-repeat,
+    url(images/blurred-bag-right-hero.png) right bottom no-repeat,
+    url(images/girl-hero-section.png) 20% bottom no-repeat;
 }
 .text {
   position: absolute;
@@ -262,7 +262,7 @@ img {
   max-width: 80%;
   height: 300px;
   padding: 30px;
-  background-image: url(/images/pattern/vecteezy_square-pattern_1209803.png);
+  background-image: url(images/pattern/vecteezy_square-pattern_1209803.png);
   color: #362e29;
   background-repeat: round;
 
@@ -314,7 +314,7 @@ img {
 }
 .left_section {
   background-color: #fff;
-  background-image: url(/images/about-product-bag.png);
+  background-image: url(images/about-product-bag.png);
   background-repeat: no-repeat;
   background-position-x: 10%;
   background-position-y: center;
@@ -603,7 +603,7 @@ img {
 
   .container-hero {
     height: 550px;
-    background: url(/images/girl-hero-section.png) 10% bottom no-repeat;
+    background: url(images/girl-hero-section.png) 10% bottom no-repeat;
   }
   .text {
     position: absolute;
@@ -709,7 +709,7 @@ img {
 @media (max-width: 500px) {
   .container-hero {
     height: 550px;
-    background: url(/images/girl-hero-section.png) left center no-repeat;
+    background: url(images/girl-hero-section.png) left center no-repeat;
   }
   .text {
     left: 270px;
